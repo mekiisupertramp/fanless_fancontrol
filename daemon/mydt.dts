@@ -1,0 +1,9 @@
+/dts-v1/;
+
+#include "sun50i-h5-nanopi-neo-plus2.dts"
+
+&i2c0 {
+        status = "okay";
+};
+
+
